@@ -374,7 +374,7 @@ export const projects = [
     description:
       "Led the end-to-end development of a comprehensive Bike Rental Website and integrated Customer Relationship Management (CRM) system. The project aimed to provide a seamless online platform for users to rent bikes and manage customer interactions efficiently. Employed modern web technologies to create a user-friendly interface, streamline rental processes, and enhance customer engagement.",
     image:
-      "https://www.newfuturebikesrr.com/wp-content/uploads/2023/06/pngwing.com1_-2048x1538.png",
+      "http://vijayvergiyatexttile.in/wp-content/uploads/2023/12/pngwing.com1_-2048x1538-1.png",
     tags: [
       "Wordpress",
       "HTML",
