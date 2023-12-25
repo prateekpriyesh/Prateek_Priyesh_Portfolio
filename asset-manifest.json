@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Prateek_Priyesh_Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Prateek_Priyesh_Portfolio/static/js/main.ca0fe737.js",
+    "main.js": "/Prateek_Priyesh_Portfolio/static/js/main.909460e3.js",
     "static/media/HeroImage.jpg": "/Prateek_Priyesh_Portfolio/static/media/HeroImage.9fe129cfebe8991f44ed.jpg",
     "index.html": "/Prateek_Priyesh_Portfolio/index.html",
     "main.bf538fe7.css.map": "/Prateek_Priyesh_Portfolio/static/css/main.bf538fe7.css.map",
-    "main.ca0fe737.js.map": "/Prateek_Priyesh_Portfolio/static/js/main.ca0fe737.js.map"
+    "main.909460e3.js.map": "/Prateek_Priyesh_Portfolio/static/js/main.909460e3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.ca0fe737.js"
+    "static/js/main.909460e3.js"
   ]
 }
