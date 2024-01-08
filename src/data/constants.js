@@ -10,7 +10,7 @@ export const Bio = {
     "Dedicated and highly skilled Full Stack Developer with a strong foundation in web development, specializing in React and Node.js technologies. My proficiency in leveraging RESTful APIs, combined with expertise in MongoDB and PostgreSQL databases, has resulted in the successful delivery of high-performance web applications. ",
   github: "https://github.com/prateekpriyesh",
   resume:
-    "https://drive.google.com/file/d/1S-Fj8sVrJX_fwgips6AU8arSO8mmv6PZ/view?usp=sharing",
+    "https://drive.google.com/file/d/1TWLn-wxfk0TREX7qNPolADE57lDDaGme/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prateekpriyesh",
   twitter: "https://twitter.com/prateekpriyesh1",
   insta: "https://www.instagram.com/prateekpriyesh/",
